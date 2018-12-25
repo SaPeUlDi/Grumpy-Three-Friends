@@ -95,7 +95,7 @@ public class PlayerController : MonoBehaviour {
 		tempPosTraps = traps.transform.position;
 		
 		platforms = GameObject.Find("Platforms");
-		platformsX = new Vector3(speed, 0, 0);
+		platformsX = new Vector3(speed, 0, (float)+90);
 		
 		tempPos = transform.position;
 		tempPosX = new Vector3(speed, 0, 0);
@@ -113,7 +113,8 @@ public class PlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update ()
-	{		
+	{	
+		
 		Pause();
 		//используем Input.GetAxis для оси Х. метод возвращает значение оси в пределах от -1 до 1.
         //при стандартных настройках проекта 
