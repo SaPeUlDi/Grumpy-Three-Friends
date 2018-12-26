@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-E:/GFTv1.5/Grumpy-Three-Friends.exe
+K:/!Учёба/1 Семестр/Технологии Программирования/GTF_Git/Grumpy-Three-Friends-v2.119/Grumpy-Three-Friends.exe
 SceneListBegin?
 Assets/Scenes/Main_Menu.unity
 Assets/Scenes/Level_Frog_1.unity
@@ -9,6 +9,7 @@ Assets/Scenes/Level_Frog_3.unity
 Assets/Scenes/Level_Dog_1.unity
 Assets/Scenes/Level_Dog_2.unity
 Assets/Scenes/Level_Dog_3.unity
+Assets/Scenes/Final_Boss.unity
 Assets/Scenes/Cat_1.unity
 Assets/Scenes/Cat_2.unity
 Assets/Scenes/Cat_3.unity
@@ -192,6 +193,7 @@ dfd33ff9ae3ce8d7ca1f22b475ec2387 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 0f8cec6a885daae84bc0a62876fb75fa Assembly-CSharp.dll:.LivesBar_boss
 aac9c55ae7ba4b95b852a7d9c191acd1 Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.Move_Platform
+b568539cea7a462b2ec4added9e8e1dc Assembly-CSharp.dll:.ButtonManager
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 e9c598d0ca544ffc804953ffb090e31e Assembly-CSharp.dll:.CameraController
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.Settings_Toggle
@@ -201,4 +203,3 @@ e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 9318334b30e9f195f573b2ce00154b95 Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 93307bd34e39d73fd24e00ec39c25a91 Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.Unit
-b568539cea7a462b2ec4added9e8e1dc Assembly-CSharp.dll:.ButtonManager
