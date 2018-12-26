@@ -11,11 +11,12 @@ public class Finel : MonoBehaviour {
     [SerializeField]
     private GameObject DiagBar_end;
 
+
+
     private void Awake()
     {
         
     }
-	
     private void OnTriggerEnter2D(Collider2D collider)
     {
         character = collider.GetComponent<Character>();
